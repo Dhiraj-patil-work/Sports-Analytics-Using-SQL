@@ -31,7 +31,7 @@
 
 <h2>SQL Tasks and Queries</h2>
 
-        <h3>Data Import and Table Creation</h3>
+<h3>Data Import and Table Creation</h3>
         <ol>
             <li>Create Tables:
                 <ul>
