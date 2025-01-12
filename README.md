@@ -1,8 +1,4 @@
-<title>Sports Analytics Using SQL</title>
-</head>
-<body>
-    <div class="container">
-        <h1>Sports Analytics Using SQL</h1>
+<h1>Sports Analytics Using SQL</h1>
         <p>
             This project explores IPL (Indian Premier League) cricket data using SQL to gain meaningful insights. 
             The analysis involves two datasets: one with match-level information and the other with ball-by-ball details. 
